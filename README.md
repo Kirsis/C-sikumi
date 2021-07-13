@@ -1,0 +1,2 @@
+# C-sikumi
+C++ sīkumi
