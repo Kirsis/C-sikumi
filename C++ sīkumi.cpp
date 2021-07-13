@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Vai tev patik ši programma?";
+    cout<<"Vai tev patik Å¡i programma?";
     cout<<"  1= ja   0=ne";
     int a,x;
     cin >> a;
@@ -41,7 +41,7 @@ int main()
 {
     do
     {
-    cout<<"Vai tev patik ši programma?";
+    cout<<"Vai tev patik Å¡i programma?";
     cout<<"  1= ja   0=ne";
     int a,x;
     char z;
@@ -69,7 +69,7 @@ int main()
     char z;
     do
     {
-        cout<<"Vai tev patik ši programma?";
+        cout<<"Vai tev patik Å¡i programma?";
         cout<<"  1= ja   0=ne";
         cin >> a;
         if (a==0) cout << "tev nepatik programma" << endl;
@@ -133,7 +133,7 @@ char yellow[] = { 0x1b, '[', '0', ';', '3', '3', 'm', 0 };
     sleep_until(system_clock::now() + seconds(1));
     cout.flush();
     system("clear");
-    cout << green << "Zalš" << endl;
+    cout << green << "ZalÅ¡" << endl;
     sleep_until(system_clock::now() + seconds(3));
     cout.flush();
     system("clear");
